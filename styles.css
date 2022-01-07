@@ -1,3 +1,7 @@
+* {
+    font-family: 'Bubblegum Sans', cursive;
+}
+
 .item{
     display: grid; 
     grid-template-rows: 1fr 1fr 1fr;
@@ -89,7 +93,7 @@
     margin: 0 auto;
     padding:10px;
     position: relative;
-    background-color: gray;
+    background-color: rgb(165, 163, 163);
 }
 
 span{
